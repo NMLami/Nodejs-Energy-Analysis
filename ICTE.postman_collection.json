@@ -1,0 +1,88 @@
+{
+	"info": {
+		"_postman_id": "a7420341-b0ac-49ef-8d1f-a41557ccf757",
+		"name": "ICTE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "express",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/v1/homepage/get",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"homepage",
+						"get"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fastify",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3002/homepage",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3002",
+					"path": [
+						"homepage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "nest",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3003/homepage",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"homepage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "connect",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3004/homepage",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3004",
+					"path": [
+						"homepage"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

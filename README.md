@@ -14,4 +14,4 @@ Framework Selection: Expressjs, Fastify, Nest and Connect framework were selecte
 **IDE:** All the backend  applications were built in vs-code IDE 
 
 
-This is the application Codes and screenshots and Colab codes for Data analysis. This is an academic report for the ICTE course at Leeds Beckett University.
+This is the application Codes and screenshots and Colab codes for Data analysis. This is an academic project for the ICTE course at Leeds Beckett University.
